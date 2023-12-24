@@ -1,0 +1,27 @@
+.heading {
+font-size:25px;
+width:100%;
+margin:0px;
+box-shadow:5px 5px 20px rgb(28, 31, 138);
+}
+
+.note {
+font-size:15px;
+color:rgb(144, 84, 176);
+}
+
+.copy_right_footer {
+position:fixed;
+background-color: rgb(164, 164, 226);
+color:rgb(144, 84, 176);
+width:100%;
+bottom:0px;
+line-height:3;
+text-align:center;
+}
+
+canavs {
+border:5px solid cornflowerblue;
+border-radius:20;
+box-shadow:5px 5px 20px rgb(28, 31, 138);
+}
